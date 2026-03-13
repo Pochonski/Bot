@@ -1,0 +1,6 @@
+2026/03/13-10:56:01.804 532c Reusing MANIFEST C:\Users\josep\OneDrive - Secsa\Documentos\Joseph\Proyectos\Bot\Bot\session\session-client-one\Default\Local Storage\leveldb/MANIFEST-000001
+2026/03/13-10:56:01.808 532c Recovering log #7
+2026/03/13-10:56:01.811 532c Reusing old log C:\Users\josep\OneDrive - Secsa\Documentos\Joseph\Proyectos\Bot\Bot\session\session-client-one\Default\Local Storage\leveldb/000007.log 
+2026/03/13-10:58:02.196 3870 Level-0 table #10: started
+2026/03/13-10:58:02.200 3870 Level-0 table #10: 21993 bytes OK
+2026/03/13-10:58:02.201 3870 Delete type=0 #7
