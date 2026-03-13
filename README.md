@@ -1,4 +1,4 @@
-# 🤖 BHK-BOT | WhatsApp Automation Bot
+# 🤖 BOT | WhatsApp Automation Bot
 
 [![Node.js](https://img.shields.io/badge/Node.js-v18+-green.svg)](https://nodejs.org/)
 [![WhatsApp-web.js](https://img.shields.io/badge/WhatsApp--web.js-v1.34.6-blue.svg)](https://wppconnect.io/)
