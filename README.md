@@ -4,7 +4,7 @@
 [![WhatsApp-web.js](https://img.shields.io/badge/WhatsApp--web.js-v1.34.6-blue.svg)](https://wppconnect.io/)
 [![MySQL](https://img.shields.io/badge/MySQL-8.0+-orange.svg)](https://www.mysql.com/)
 
-**BHK-BOT** es un asistente automatizado para WhatsApp diseñado para gestionar registros de usuarios de forma inteligente, interactuar mediante menús personalizados y almacenar datos en una base de datos MySQL en tiempo real.
+**BOT** es un asistente automatizado para WhatsApp diseñado para gestionar registros de usuarios de forma inteligente, interactuar mediante menús personalizados y almacenar datos en una base de datos MySQL en tiempo real.
 
 ---
 
@@ -43,8 +43,8 @@
 
 1.  **Clonar el repositorio**:
     ```bash
-    git clone https://github.com/tu-usuario/bhk-bot.git
-    cd bhk-bot
+    git clone https://github.com/Pochonski/bot.git
+    cd bot
     ```
 
 2.  **Instalar dependencias**:
@@ -107,8 +107,6 @@ node bot.js
 
 ---
 
-## 📧 Contacto
-Si tienes dudas o necesitas ayuda personalizada, contacta al desarrollador.
 
 ---
-*Desarrollado con ❤️ para la comunidad de BHK.*
+*Desarrollado con ❤️ por Pochonski*
